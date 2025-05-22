@@ -11,6 +11,10 @@ It types common PINs and generated date-based combinations, automating input via
 
 &nbsp;
 
+
+![](pic_01.jpg)
+
+
 ---
 ## How It Works
 
