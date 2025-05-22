@@ -14,6 +14,7 @@ It types common PINs and generated date-based combinations, automating input via
 
 ![](pic_01.jpg)
 
+&nbsp;
 
 ---
 ## How It Works
@@ -170,6 +171,10 @@ This tool offers **three different brute-force strategies** for unlocking PIN-pr
 - Uses `CMD + Backspace` to bypass Android error UI and retry faster
     
 > Tested on Samsung devices where **no Enter key is required** for PIN submission and the screen can be activated via keyboard.
+
+&nbsp;
+
+![](pic_02.gif)
 
 &nbsp;
 
